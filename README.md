@@ -33,4 +33,4 @@ Another fibonacci algorithm with improved efficiency.
 
 ## Credits
 
-UCL Computer Science COMP1002:Theory I covered various algorithms and provided example sample code. Initial created by Jonny Manfield. Please feel free to help form a small library of Python Algorithms!
+UCL Computer Science COMP1002:Theory I covered various algorithms and provided example sample psuedocode. Initial created by Jonny Manfield. Please feel free to help form a small library of Python Algorithms!
